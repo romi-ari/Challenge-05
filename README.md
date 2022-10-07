@@ -2,13 +2,16 @@
 
 # Method Get
 
+## ERD 
+![ERD](https://user-images.githubusercontent.com/86102334/194604883-76f02fd4-653b-4eb8-a91c-0dc9f96d53dd.jpeg)
+
 method get digunakan untuk mendapatkan data dari database
 
 # 1. Mendapatkan Semua Data
 
 | Base URL | Endpoint |
 | -------- | :-----: |
-| http://localhost:8080 | / |
+| http://localhost:8081 | / |
 
 ## Response
 
@@ -176,8 +179,7 @@ method delete digunakan untuk menghapus data dari database
 2. http://localhost:8081/create
 3. http://localhost:8081/update/5
 
-## ERD 
-![ERD](https://user-images.githubusercontent.com/86102334/194604883-76f02fd4-653b-4eb8-a91c-0dc9f96d53dd.jpeg)
+
 
 
 
