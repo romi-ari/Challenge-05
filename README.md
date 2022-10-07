@@ -1,10 +1,9 @@
 # chalenge05
 
-# Method Get
-
 ## ERD 
 ![ERD](https://user-images.githubusercontent.com/86102334/194604883-76f02fd4-653b-4eb8-a91c-0dc9f96d53dd.jpeg)
 
+# Method Get
 method get digunakan untuk mendapatkan data dari database
 
 # 1. Mendapatkan Semua Data
@@ -45,7 +44,7 @@ method get digunakan untuk mendapatkan data dari database
 
 | Base URL | Endpoint | Method |
 | -------- | :------: | :--: |
-| http://localhost:8080 | /update/:id | GET |
+| http://localhost:8081 | /update/:id | GET |
 
 ## Response
 
@@ -72,7 +71,7 @@ method post digunakan untuk menambahkan data dari database
 
 | Base URL | Endpoint | Method |
 | -------- | :------: | :---: |
-| http://localhost:8080 | /create | POST |
+| http://localhost:8081 | /create | POST |
 
 ## Request
 
@@ -111,7 +110,7 @@ method put digunakan untuk mengubah data dari database
 
 | Base URL | Endpoint | Method |
 | -------- | :------: | :---: |
-| http://localhost:8080 | /update | PUT |
+| http://localhost:8081 | /update | PUT |
 
 ## Request
 
@@ -148,7 +147,7 @@ method delete digunakan untuk menghapus data dari database
 
 | Base URL | Endpoint | Method |
 | -------- | :------: | :---: |
-| http://localhost:8080 | /delete | DELETE |
+| http://localhost:8081 | /delete | DELETE |
 
 
 # Contoh Request Yang Tidak Sesuai
